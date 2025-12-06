@@ -1,5 +1,6 @@
 ## FluidGroup
 
+https://swiftpackageindex.com/FluidGroup
 
 ## Additional Useful Packages
 
